@@ -66,3 +66,6 @@ insert into students (fullName,email_id,phone)
 -- insert into students (fullName,email_id,phone,age)
 -- values ("vedu","vedu@gmail.com","9876456723",null);-- col  age cannot be null
 
+use batchn27;
+show tables;
+

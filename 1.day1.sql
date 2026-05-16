@@ -29,9 +29,10 @@ show tables;
 desc employee;
 describe employee;
 
--- drop/delete table
+-- drop/delete tablestudents
 drop table employee;
 
 show tables;
+
 
 
